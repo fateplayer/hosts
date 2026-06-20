@@ -1,1 +1,1 @@
-140.82.113.21 api.individual.githubcopilot.com
+140.82.114.22 api.individual.githubcopilot.com
